@@ -33,6 +33,8 @@
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
+  </details>
+
 
 ### Key Features <a name="key-features"></a>
 
@@ -46,7 +48,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://dev--creative-snickerdoodle-15d8bd.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
