@@ -569,7 +569,7 @@ const MyForm = () => {
       >
 
       <button
-        className="bg-orange-500 text-white px-7 py-3 mt-1"
+        className="bg-orange-500 text-white px-7 py-3 mt-1 mb-6"
        type="submit">Add Tax to {totalItemSelected} item(s)</button>
              </div>
 
