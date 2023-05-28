@@ -375,10 +375,12 @@ const MyForm = () => {
       });
     }
     setSelectAllItems(!selectAllItems);
+    formik.setFieldValue("appliedTo", "all");
   };
 
   const handleSelectSomeItems = () => {
     setSelectSomeItems(!selectSomeItems);
+    formik.setFieldValue("appliedTo", "some");
   };
 
   const handleSearchChange = (event) => {
